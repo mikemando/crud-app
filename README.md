@@ -7,3 +7,6 @@
 "/update/:id" : Gives access to update payload of specified user id
 
 "/delete/:id" : Deletes data of specified user id
+
+
+HOSTED LINK: https://michael-crud-app.herokuapp.com/
